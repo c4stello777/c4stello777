@@ -55,14 +55,14 @@
 <img src="https://streak-stats.demolab.com?user=c4stello777&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" alt="streak" />
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=c4stello777&theme=github-compact" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/c4stello777/c4stello777/refs/heads/output/activity-graph.svg" alt="activity graph" />
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c4stello777&theme=dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c4stello777&theme=dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c4stello777&theme=dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c4stello777&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c4stello777&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c4stello777&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c4stello777&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c4stello777&theme=dark" />
 </p>
 
 <!--
