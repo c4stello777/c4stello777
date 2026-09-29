@@ -21,10 +21,10 @@
 <a href="https://x.com/CYB3R_C4S73LLO">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://www.linkedin.com/in/c4stello777/">
+<a href="https://www.linkedin.com/in/amal-s-babu-98385b252">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://t.me/c4stello777">
+<a href="https://t.me/Anon6_1">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://instagram.com/castello.777">
