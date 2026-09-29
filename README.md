@@ -46,7 +46,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [C7LAB](https://github.com/c4stello777/C7LAB-Automated-Hands-On-Vulnerable-Labs-Derived-from-Real-World-CVEs-and-Security-Write-ups) | Automated hands-on vulnerable labs from real CVEs - SSRF, IDOR, SQLi in isolated containers | Python, Docker, HTML |
+| [C7LAB](https://github.com/c4stello777/C7LAB) | Automated hands-on vulnerable labs from real CVEs - SSRF, IDOR, SQLi in isolated containers | Python, Docker, HTML |
 | [ShadowTrap](https://github.com/c4stello777/ShadowTrap) | Interactive SSH honeypot with fake shell, brute-force capture, Discord alerts | Python |
 | [DecoyX](https://github.com/c4stello777/DecoyX) | Lightweight decoy / honeypot with live logging | Python |
 
