@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Nerd+Font&weight=600&size=34&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=root%40c4stello%3A~%23+whoami;ACCESS_GRANTED;I'm+Castello;Penetration+Tester;Security+Researcher;CTF+Player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Nerd+Font&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=root%40c4stello%3A~%23+whoami;ACCESS_GRANTED;I'm+Castello;Penetration+Tester;Security+Researcher;CTF+Player" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <ul align="center">
 <samp>
 <li>Cybersecurity Researcher | Penetration Tester</li>
-<li>Deeply learning <a href="https://www.kernel.org/">Linux</a>, Networking, <a href="https://python.org">Python</a>, <a href="https://www.gnu.org/software/bash/">Bash</a></li>
+<li>Deeply learning Linux, Networking, Python, Bash, Containerization, Cloud</li>
 <li>Into Bug Hunting, CTFs, Ethical Hacking and Security Tooling</li>
 </samp>
 </ul>
@@ -33,10 +33,10 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,arch,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,arch" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,neovim,obsidian" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode" />
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,bash,c,html,css,mysql,regex" />
@@ -50,18 +50,13 @@
 | [ShadowTrap](https://github.com/c4stello777/ShadowTrap) | Interactive SSH honeypot with fake shell, brute-force capture, Discord alerts | Python |
 | [DecoyX](https://github.com/c4stello777/DecoyX) | Lightweight decoy / honeypot with live logging | Python |
 
-### 🏆 GitHub Trophies
+### 📊 Stats & Activity
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=c4stello777&theme=onestar&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=c4stello777&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" alt="streak" />
 </p>
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c4stello777/c4stello777/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c4stello777/c4stello777/refs/heads/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/c4stello777/c4stello777/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c4stello777&theme=github-compact" alt="activity graph" />
+</p>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c4stello777&theme=dark" />
@@ -73,6 +68,5 @@
 <!--
 TODO for owner:
 - Update LinkedIn URL (currently https://www.linkedin.com/in/c4stello777/) and Telegram (https://t.me/c4stello777) if different
-- Add TryHackMe badge when ready: <img src="https://tryhackme-badges.s3.amazonaws.com/c4stello777.png" alt="THM" /> (replace c4stello777 with your THM username)
 - Pin C7LAB, ShadowTrap, DecoyX, Cybercastello.github.io on your profile: Profile > Customize pins
 -->
