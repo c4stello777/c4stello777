@@ -42,6 +42,12 @@
 <img src="https://skillicons.dev/icons?i=py,bash,c,html,css,mysql,regex" />
 </p>
 
+<p align="center">
+<a href="https://tryhackme.com/p/4maL">
+<img src="https://tryhackme-badges.s3.amazonaws.com/4mal.png" alt="TryHackMe 4maL" />
+</a>
+</p>
+
 ### 🔭 Featured Projects
 
 | Project | Description | Stack |
